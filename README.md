@@ -38,7 +38,7 @@ El código depende de las siguientes librerías de Arduino:
 ## Implementación
 Aquí se muestra el prototipo de la unidad de monitoreo:
 
-![Prototipo del Sistema](img/prototype.jpg)
+![Prototipo del Sistema](img/bio.jpeg)
 
 *(Nota: Para visualizar la imagen, crea una carpeta llamada `img` en este directorio y añade una foto nombrada `prototype.jpg`)*
 
